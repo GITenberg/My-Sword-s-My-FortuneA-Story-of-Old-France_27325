@@ -1,0 +1,26 @@
+_repo: My-Sword-s-My-FortuneA-Story-of-Old-France_27325
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hayens, Herbert
+    birthdate: 1861
+    deathdate: 1944
+    gutenberg_agent_id: '25432'
+    url: http://www.gutenberg.org/2009/agents/25432
+description: ''
+gutenberg_issued: '2008-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 17th century -- Fiction'
+- !lcc 'PR'
+title: 'My Sword''s My Fortune: A Story of Old France'
+url: http://www.gutenberg.org/ebooks/27325
